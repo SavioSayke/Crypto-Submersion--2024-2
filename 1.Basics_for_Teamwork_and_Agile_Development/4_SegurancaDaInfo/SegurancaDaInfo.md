@@ -125,3 +125,36 @@ São informações que podem ser divulgadas sem restrição para o público em g
 As informações públicas são aqueles dados que podem ser divulgados sem oferecer risco algum à empresa, seus colaboradores e clientes.
 
 ---
+
+## **Engenharia Social**
+
+Engenharia Social é a habilidade de conseguir acesso a informações ou áreas importantes de algo ou alguém através de habilidades de persuasão.
+
+O atacante se aproveita da faita de conhecimento, da boa vontade e simpatia da sua vítima para convencê-la a passar informações ou tomar ações de forma que lhe pareçam legítimas.
+
+**Por que a engenharia social funciona?**
+
+O ser humano confia e coopera por natureza, praticamente qualquer pessoa pode ser induzida a compartilhar informações, seja por capricho, carência de comunicação, coloca-se como centro das atenções, sentir-se útil, curiosidade, ambição, medo, compaixão, inocência, toda característica pode ser explorada com a abordagem correta.
+
+Os investimentos para proteção das informações estão cada vez maiores e as tecnologias mais avançadas, com isso os fraudadores atacam o fator humano, a parte do processo de controles de segurança que tem menos atenção das empresas.
+
+**_Tácticas de abordagem_**
+
+As abordagens variam de acordo com a exposição do atacante, abaixo os mais comuns.
+
+* **Baiting**: Uma isca física ou digital como um pendrive ou download de um filme, podem trazer um malware para o computador ao inserir o pendrive ou baixar e executar um arquivo, o malware oculto ganha acesso ao computador.
+* **Phishing**: O mais famoso, porém, também mais eficiente! O atacante criar conteúdo enganoso muito próximo de algo legítimo e confiável, afim de obter credenciais ou instalar um malware. É comum se utilizar do e-mail, mas é muito comum também por SMS (Smishing) ou ligações de voz (Vishing).
+* **Dumpster Diving**: é uma das abordagens menos óbvias, porém, caso as empresas não tenham cuidados com o descarte de informações o atacante pode encontrar relatórios inteiros, discos removíveis entre outros tipos de mídia com informações de todos os níveis de classificação.
+
+**Dicas de prevenção**
+
+"Ah, mas quem cai nisso? Como as pessoas não percebem que isso são estratégias para enganá-las?"
+
+* Sempre desconfie! Leia de novo!;
+* Não baixe arquivos e anexos em e-mail suspeitos;
+* Não responda nem interaja com mensagens de textos suspeitas;
+* Valide os links e o remetente dos e-mails;
+* Descarte corretamente documentos e equipamentos;
+* Pratique "mesa e tela limpa" ao menos o bloquear a tela e deixar o necessário em seu ambiente de trabalho.
+
+---
