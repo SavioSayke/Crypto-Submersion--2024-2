@@ -65,6 +65,8 @@ São um conjunto de <u>4 valores</u> e <u>12 princípios</u> que fundamentam o d
 
 ## **SCRUM**
 
+![Scrum](https://w7.pngwing.com/pngs/388/270/png-transparent-logo-scrum-brand-trademark-org-scrum-master-text-trademark-logo.png)
+
 **Scrum** é um framework com a qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva e criativo e com maior **valor** possível.
 
 O Srum é:
