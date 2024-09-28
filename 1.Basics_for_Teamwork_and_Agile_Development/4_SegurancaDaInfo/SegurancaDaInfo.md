@@ -158,3 +158,102 @@ As abordagens variam de acordo com a exposição do atacante, abaixo os mais com
 * Pratique "mesa e tela limpa" ao menos o bloquear a tela e deixar o necessário em seu ambiente de trabalho.
 
 ---
+
+## **Boas práticas e diretrizes**
+
+Conheça alguns dos dilemas de segurança mais comuns em nosso dia-a-dia e saiba como lidar da melhor maneira para evitar interrupções, destruição ou modificação não autorizados, acesso e uso indevido ao trabalho que você tem se dedicado tanto.
+
+**Compartilhamento de Acesso**
+
+As credenciais de acesso, de qualquer sistema, constituem a identificação do usuário, isto é, se ele é autorizado a acessar e trabalhar aquelas informações.
+
+As ações executadas com uma credencial são de responsabilidade do próprio profissional e todos os acessos podem ser monitorados, portanto proteja seu login e senha.
+
+**Alerta de clichê!**
+
+_"Não compartilhamos escova de dentes, assim também devemos fazer com credenciais de acesso."_
+
+**Armazenamento**
+
+As informações devem ser armazenadas nos repositórios oficiais, onde estarão seguras com os devidos controles de proteção.
+
+Faça uso dos recurso da Udemy, do OneDrive e do Sharepoint de seu respectivo iStudio para armazenar suas informações.
+
+**Softwares e malwares**
+
+Softwares maliciosos e malwares são muito comuns em programas ou arquivos baixados da internet, portanto, é necessário ter muita cautela!
+
+Nosso antivírus gera um alerta à todo software não autorizado e damos o devido tratamento envolvendo os profissionais e seus gestores, porém, o ideal é que você avalie sempre a lista de software homologados antes de instalar algo em seu equipamento.
+
+**Dica de Ouro**: "Não assuma um risco sozinho, busque orientação."
+
+Utilizar software não homologado pode gerar riscos desnecessários às nossas informações.
+
+**Senha segura**
+
+Suas senhas concedem o acesso ao ambiente e sistemas na Compass e em nossos clientes, por isso, é preciso seguir alguns cuidados básicos para criar uma senha forte.
+
+* Evite nomes, sobrenomes, apelidos, datas de aniversário, nº de celular, placa de carro;
+* Crie senha diferentes para cada conta, sistema ou site que precisar;
+* Troque suas senhas com frequência;
+* Use um aplicativo de "cofre de senhas";
+* Sempre que disponível, utilize um segundo fator de autenticação (MFA);
+* Reporte ao time InfoSec situações suspeitas que pedem suas informações;
+* Sempre que possível use letras maiúsculas e minúsculas, números e caracteres especiais.
+
+**Uso da internet**
+
+O conteúdo acessado na internet e o uso do e-mail corporativo deve respeitar todas as diretrizes e nomes de segurança e privacidade publicadas e divulgadas em nossas políticas.
+
+Com a disseminação de ferramentas de comunicação instatânea o uso destas para tratar assuntos profissionais se tornou cada vez mais comum. Evite-os para tratar assuntos sensíveis e compartilhar arquivos.
+
+Quando precisar trafegar informação sensível, procure pelo "cadeadinho"!
+
+> Conteúdo ilícito? Uma lista pra você se lembrar, mas não limitada a esta.
+
+> Ataques, ameaças, violência, pornografia, spoofing, sniffer, defacement, disseminação de vírus, worms, trojans, spywares, spam, roubo de informação, espionagem, sabotagem, destruição, divulgação e alteração de informações não autorizadas, pirataria, engenharia reversa e/ou depuração de código não autorizado.
+
+**Multi-factor Authenticator (MFA)**
+
+MFA é um controle de segurança que demanda dois ou mais elementos de autenticação para identificar um usuário, afim de dificultar acessos não autorizados.
+
+Existem diversos tipos de autenticação e os mais utilizados são:
+
+| O que sei| O que tenho | Quem sou |
+| --- | --- | --- |
+| É exigido algo conhecido, como login, senha ou resposta a uma pergunta secreta. | Necessário algo físico como um token, um cartão inteligente ou um aplicativo em dispositivos móvel para obter a informação, geralmente randômica, para autenticação. | Utiliza-se características físicas do ser humano como a impressão digital, reconhecimento de voz ou face, ou leitura de retina. |
+
+**Atualização de software**
+
+Somos todos do mundo de tecnologia, e queremos sempre o melhor, o mais novo, o último modelo. **Por que seria diferente com os softwares e sistemas operacionais que utilizamos?**
+
+Além das correções e proteção contra as novas vulnerabilidades identificadas pelos vendors, você tem ganhos em desempenho, compatibilidade, estabilidade, evita interrupções, aproveita de novos recursos e funcionalidades.
+
+**Redes Wi-fi**
+
+Quem nunca procurou uma rede Wi-fi aberta quando atingiu o limite do plano dde dados da sua operadora, que atire a primeira pedra.
+
+Inúmeras vezes nos colocamos em risco nossas informações como senhas, históricos de navegação, e-mails, mensagens, dados e arquivos, simplesmente por utilizarmos um hotspot desconhecido, gratuito ou até mesmo com nomes muito convincentes ou semelhantes aos que costumamos usar.
+
+É possível que alguém mal intencionado esteja bisbilhotando todos os pacotes que trafegam naquela rede aberta.
+
+**Dicas valiosas para redes Wi-Fi públicas e domésticas**
+
+**Em redes públicas**
+
+* Evite se conectar a redes abertas;
+* Utilize uma VPN confiável;
+* Desative a opção de conexão automática nas redes Wi-fi públicas.
+* Desative o compartilhamento de arquivos e impressoras.
+* Não instale APPs que prometem quebrar senhas ou descobri-las para conectar a redes Wi-Wi protegidas.
+
+**Em sua rede doméstica**
+
+* Em seu roteador, configure uma senha forte, troque-a periodicamente, utilize os padrões WPA2 ou WPA3;
+* Mantenha o firmware atualizado;
+* Mude os padrões de fábrica como o nome da sua rede (SSID) e as credenciais de administrador do roteador;
+* Desabilite o acesso remoto ao roteador para manutenção;
+* Fique atento aos sites onde vai inserir informações confidenciais, confirme que utilizam conexões seguras (https)
+  * Procure o cadeado na barra de endereços do navegador.
+
+---
