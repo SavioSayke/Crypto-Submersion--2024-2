@@ -52,6 +52,6 @@ E nossa **Blockchain**? O que seria ela?
 
 Bem, a nossa **Blockchain** seria o conjunto de todos esses blocos em cadeia, um livro-razão que possuí todos os registros de transações registradas em cada bloco.
 
-Como você pode observar, cada bloco depende do hash do bloco anterior e assim sucessivamente para construir uma cadeia linear de blocos. O fato de que caso haja alguma alteração em algum documento, minima que seja, esse cadeia de blocos irá **colapsar**, já que mudando o dado o hash muda...e se o hash de um bloco muda, o hash do próximo bloco também mudará...e assim sucessivamente.
+Como você pode observar, cada bloco depende do hash do bloco anterior e assim sucessivamente para construir uma cadeia linear de blocos. O fato de que caso haja alguma alteração em algum documento, minima que seja, esse cadeia de blocos irá **colapsar**, já que mudando o dado, o hash muda...e se o hash de um bloco muda, o hash do próximo bloco também mudará...e assim sucessivamente.
 
 Por se tratar de uma rede descentralizada e em consenso. Para que alguem consiga alterar um dado de um bloco e esse dado seja validado na rede, a pessoa teria que ter mais de 50% de poder computacional para descobrir o hash a partir do bloco que foi alterado esse dado e o hash seguinte de todos os blocos da cadeia. E mesmo assim, como na Blockchain a cadeia **mais longa** é a válida, essa pessoa teria que descobrir todos os hashs de todos os blocos antes que a rede crescesse um pouco mais (antes que novos blocos sejam criados), tornando essa tarefa basicamente impossível.
